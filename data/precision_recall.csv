@@ -1,0 +1,9 @@
+Label,Precision,Recall
+AAC,0.94,0.8
+APP,0.58,0.78
+CFS,1.0,1.0
+HT,0.5,1.0
+CESB,1.0,1.0
+PSI,,
+SWB,1.0,1.0
+SLA,1.0,0.75
